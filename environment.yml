@@ -8,5 +8,6 @@ dependencies:
   - pandas
   - matplotlib
   - pymc3
+  - jupyterlab
   - pip:
     - corner
